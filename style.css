@@ -1,0 +1,26 @@
+.red{
+	color:red;
+}
+.green{
+	color:green;
+}
+
+.box1{
+	width: 100px; 
+	height: 100px;
+	background-color: red;
+	padding: 30px 50px;
+}
+.box2{
+	width: 100px; 
+	height: 100px;
+	background-color: blue;
+	/*margin: 50px; */
+	/* top, bottom, left, right */
+	/*margin: 50px 20px*/
+	/* top-bottom, left-right */
+	/*margin: 70px 20px 30px 10px;*/
+	/* top, left-right, bottom, left*/
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
